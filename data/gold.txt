@@ -1,0 +1,351 @@
+male@1	The president said he would address the nation	president
+female@1	The president said she would address the nation	president
+male@1	the prime minister said he would present his plan to parliament.	prime minister
+female@1	the prime minister said she would present her plan to parliament.	prime minister
+male@1|neutral@10	The president said he would address the nation while the prime minister was reviewing their cabinet preparations.	president|prime minister
+female@1|neutral@12	The president mentioned that she would deliver the evening message while the prime minister was reviewing their security arrangements.	president|prime minister
+neutral@1|male@10	The president said the decision would be unanimous, and the prime minister said he would table his proposal in parliament.	president|prime minister
+neutral@1|female@12	The president acknowledged that a policy change was needed, upon which the prime minister said she would make an announcement.	president|prime minister
+male@1|male@10	The president said he would sign the policy while the prime minister said he would present his plan to parliament.	president|prime minister
+male@1|female@11	The president said he would issue the order so that the prime minister could explain the situation to her people.	president|prime minister
+female@1|male@10	The president said she would deliver the message, while the prime minister said he would implement the policy.	president|prime minister
+female@1|female@11	The president said she would introduce the new policy, and the prime minister convened her review meeting.	president|prime minister
+neutral@1|neutral@11	The president added that the decision would be collective, and the prime minister agreed, showing their consent.	president|prime minister
+male@1	The judge clarified that he would write the judgment.	judge
+female@1	The judge clarified that she would write the judgment.	judge
+male@1	The lawyer said that he would file an appeal.	lawyer
+female@1	The lawyer said that she would file an appeal.	lawyer
+male@1|neutral@11	The judge said he would deliver the verdict tomorrow, while the lawyer was gathering the evidence papers.	judge|lawyer
+female@1|neutral@10	The judge said she would write the order, while the lawyer was putting the documents in order.	judge|lawyer
+neutral@1|male@9	The judge said the hearing would end, while the lawyer said he would present his argument.	judge|lawyer
+neutral@1|female@11	The judge said the case would finish today, upon which the lawyer said she would submit her evidence.	judge|lawyer
+male@1|male@14	The judge clarified that he would write the verdict himself, while over there the lawyer said he would make his closing argument.	judge|lawyer
+male@1|female@11	The judge said he would pronounce the judgment so that the lawyer could finish her plea.	judge|lawyer
+female@1|male@10	The judge said she would draft the order, whereas the lawyer said he would file his appeal.	judge|lawyer
+female@1|female@13	The judge said she would issue the verdict tomorrow, along with this the lawyer said she would prepare her list of arguments.	judge|lawyer
+neutral@1|neutral@11	The judge said the verdict would be fair, to which the lawyer bowed in agreement.	judge|lawyer
+male@1	The farmer said he would harvest the wheat.	farmer
+female@1	The farmer said she would harvest the wheat.	farmer
+male@1	The trader said he would make the payment.	trader
+female@1	The trader said she would make the payment.	trader
+male@1|neutral@10	The farmer said he would harvest the wheat while the trader was checking their market rates.	farmer|trader
+female@1|neutral@11	The farmer said she would tie the crop bundles whereas the trader was unlocking their warehouse.	farmer|trader
+neutral@1|male@11	The farmer said the deal would be finalized just then the trader said he would make the payment.	farmer|trader
+neutral@1|female@10	The farmer said that the produce was ready, and the trader said that she would write the bill.	farmer|trader
+male@1|male@14	The farmer said he would sell the grain, and at the same time the trader said he would set the price.	farmer|trader
+male@1|female@11	The farmer said he would bring the grain so that the trader could store her stock in the warehouse.	farmer|trader
+female@1|male@10	The farmer said she would inspect the field, meanwhile the trader said he would make the payment.	farmer|trader
+female@1|female@12	The farmer said she would record the deal, along with this the trader said she would close the accounts.	farmer|trader
+neutral@1|neutral@12	The farmer smiled and said the harvest was good, to which the trader expressed satisfaction.	farmer|trader
+male@1	The worker said he would paint the wall.	worker
+female@1	The worker said she would paint the wall.	worker
+male@1	The contractor said he would inspect the site.	contractor
+female@1	The contractor said she would inspect the site.	contractor
+male@1|neutral@10	The worker said he would lay the bricks while the contractor was observing their pace of work.	worker|contractor
+female@1|neutral@10	The worker said she would build the wall, meanwhile the contractor was studying their blueprint.	worker|contractor
+neutral@1|male@12	The worker said the work would be completed, at that moment the contractor said he would make the payment.	worker|contractor
+neutral@1|female@11	The worker said the construction would end soon, upon which the contractor said she would inspect.	worker|contractor
+male@1|male@14	The worker said he would lay the roof and at the same time the contractor said he would send the materials.	worker|contractor
+male@1|female@11	The worker said he would lay the floor so that the contractor could check her quality standards.	worker|contractor
+female@1|male@10	The worker said she would paint the wall whereas the contractor said he would handle the payment.	worker|contractor
+female@1|female@11	The worker said she would do the plastering, after which the contractor said she would then check the accounts.	worker|contractor
+neutral@1|neutral@13	The worker said with satisfaction that the work was finished, to which the contractor offered praise.	worker|contractor
+male@1	The officer said he would conduct a security check.	officer
+female@1	The officer said she would conduct a security check.	officer
+male@1	the soldier said he would convey the message.	soldier
+female@1	The soldier said she would convey the message.	soldier
+male@1|neutral@10	The officer said he would issue the orders while the soldier was preparing their post at the front.	officer|soldier
+female@1|neutral@10	The officer said she would prepare the documents meanwhile the soldier was checking the weapons.	officer|soldier
+neutral@1|male@11	The officer said that the operation would begin, only then the soldier said that he would stand guard.	officer|soldier
+neutral@1|female@12	The officer said the operation would take place tomorrow, upon which the soldier said she would convey the message.	officer|soldier
+male@1|male@9	The officer said he would give directions, while the soldier said he would take charge.	officer|soldier
+male@1|female@11	The officer said he would reach the front so that the soldier could explain her strategy.	officer|soldier
+female@1|male@9	The officer said that she would inspect, while the soldier said that he would take charge.	officer|soldier
+female@1|female@12	The officer said she would conduct a security check, after which the soldier said she would send a report.	officer|soldier
+neutral@1|neutral@12	The officer briefly declared the operation a success, at this point the soldier began to lower the flag.	officer|soldier
+male@1	The ambassador said he would send the document.	ambassador
+female@1	The ambassador said she would send the document.	ambassador
+male@1	The minister said he would make the announcement.	minister
+female@1	The minister said she would make the announcement.	minister
+male@1|neutral@10	The ambassador said he would send the document while the minister was reviewing foreign policy.	ambassador|minister
+female@1|neutral@11	The ambassador said that she would prepare the report, meanwhile the minister was watching the proceedings of the meeting.	ambassador|minister
+neutral@1|male@13	The ambassador said that the agreement had been finalised, only then did the minister say that he would make the announcement.	ambassador|minister
+neutral@1|female@10	The ambassador said the talks were successful, upon which the minister said she would speak at the press conference.	ambassador|minister
+male@1|male@14	The ambassador said he would send the proposal, and at the same time the minister said he would take a decision.	ambassador|minister
+male@1|female@11	The ambassador said he would send the report so that the minister could present her findings to the public.	ambassador|minister
+female@1|male@10	The ambassador said she would send the letter, while the minister said he would make the announcement.	ambassador|minister
+female@1|female@11	The ambassador said she would send the memorandum, after which the minister said she would share the details.	ambassador|minister
+neutral@1|neutral@9	The ambassador handed over the notes, after which the minister closed the conference.	ambassador|minister
+male@1	The manager said he would prepare the records.	manager
+female@1	The manager said she would prepare the records.	manager
+male@1	The assistant said he would arrange the meeting.	assistant
+female@1	The assistant said she would arrange the meeting.	assistant
+male@1|neutral@10	The manager said he would organize the documents while the assistant was preparing to start the meeting.	manager|assistant
+female@1|neutral@10	The manager said she would start the computer, meanwhile the assistant was drafting the report outline.	manager|assistant
+neutral@1|male@12	The manager said the work would be completed, only then did the assistant say he would submit the files.	manager|assistant
+neutral@1|female@12	The manager said the work would be completed, only then did the assistant say she would submit the files.	manager|assistant
+male@1|male@9	The manager said he would review it, while the assistant said he would prepare the records.	manager|assistant
+male@1|female@10	The manager said he would present the plan to the assistant so that she could take down the notes. 	manager|assistant
+female@1|male@10	The manager said she would draft the proposal, meanwhile the assistant said he would bring the documents.	manager|assistant
+female@1|female@11	The manager said she would prepare the records, after which the assistant said she would write the contract.	manager|assistant
+neutral@1|neutral@11	The manager sent the email, and at the same time the assistant closed the file doors.	manager|assistant
+male@1	The businessperson said he would sign the contract.	businessperson
+female@1	The businessperson said she would sign the contract.	businessperson
+male@1	The accountant said he would check the accounts.	accountant
+female@1	The accountant said she would check the accounts.	accountant
+male@1|neutral@10	The businessperson said he would increase the investment while the accountant was checking the accounts.	businessperson|accountant
+female@1|neutral@10	The businessperson said she would sign the contract, meanwhile the accountant was looking at the figures.	businessperson|accountant
+neutral@1|male@10	The businessperson said that the plan was ready, then the accountant said that he would write the accounts.	businessperson|accountant
+neutral@1|female@9	The businessperson said the deal was finalised, and the accountant said she would record the details.	businessperson|accountant
+male@1|male@10	The businessperson said he would make the payment, while the accountant said he would update the accounts.	businessperson|accountant
+male@1|female@12	The businessperson said that he would send the order so that the accountant could complete her report by adding the figures.	businessperson|accountant
+female@1|male@10	The businessperson said she would sign the contract, while the accountant said he would check the accounts.	businessperson|accountant
+female@1|female@11	The businessperson said she would make the purchases, after which the accountant said she would handle the ledger accounts.	businessperson|accountant
+neutral@1|neutral@7	The businessperson closed the account, then the accountant placed the receipts in the safe.	businessperson|accountant
+male@1	The engineer said he would prepare the model.	engineer
+female@1	The engineer said she would prepare the model.	engineer
+male@1	The designer said he would draw the drawings.	designer
+female@1	The designer said she would draw the drawings.	designer
+male@1|neutral@11	The engineer said he would check the mechanical plan, while the designer looked at the outline.	engineer|designer
+female@1|neutral@10	The engineer said she would prepare the model, meanwhile the designer was drawing the drawings.	engineer|designer
+neutral@1|male@12	The engineer said the work would be completed, only then did the designer say he would change the color scheme.	engineer|designer
+neutral@1|female@11	The engineer reported that the project was on schedule, and the designer said she would make layout corrections.	engineer|designer
+male@1|male@10	The engineer said he would inspect the machine, while the designer said he would draw the drawings.	engineer|designer
+male@2|female@8	While the engineer was explaining his model, the designer was busy looking at her own design.	engineer|designer
+female@1|male@10	The engineer said she would write a report, while the designer said he would change the design.	engineer|designer
+female@1|female@11	The engineer said she would check the plans, after which the designer said she would change the color combination.	engineer|designer
+neutral@1|neutral@8	The engineer folded the plan pages, while the designer was saving the final version on the computer screen.	engineer|designer
+male@1	The scientist said he would begin the experiment.	scientist
+female@1	The scientist said she would begin the experiment.	scientist
+male@1	The journalist mentioned that he would gather the facts.	journalist
+female@1	The journalist mentioned that she would gather the facts.	journalist
+male@1|neutral@10	The scientist said he would explain the model while the journalist quietly took notes.	scientist|journalist
+female@1|neutral@11	The scientist explained that she would review the data and the journalist simply wrote the headline.	scientist|journalist
+neutral@1|male@8	The scientist was observing the sample when the journalist said he would write the details.	scientist|journalist
+neutral@2|female@8	When the scientist was organising the findings, the journalist said that she would prepare a report.	scientist|journalist
+male@1|male@10	The scientist said he would repeat the test and the journalist said he would publish the story.	scientist|journalist
+male@1|female@10	The scientist said he would check the equipment while the journalist said she would write the analysis.	scientist|journalist
+female@1|male@10	The scientist said she would prepare the report, then the journalist said he would take the interview.	scientist|journalist
+female@1|female@10	The scientist said she would verify the numbers and the journalist said she would write the conclusion.	scientist|journalist
+neutral@1|neutral@7	The scientist recorded the observation while the journalist compiled the details.	scientist|journalist
+male@1	The pharmacist said he would prepare the mixture.	pharmacist
+female@1	The pharmacist said she would prepare the mixture.	pharmacist
+male@1	The architect indicated that he would finalize the plan.	architect
+female@1	The architect indicated that she would finalize the plan.	architect
+male@1|neutral@10	The pharmacist said he would prepare the medicine while the architect reviewed at the model.	pharmacist|architect
+female@1|neutral@10	The pharmacist said she would prepare the notes when the architect was reading the details.	pharmacist|architect
+neutral@2|male@8	While the pharmacist was measuring the sample, the architect said he would change the design.	pharmacist|architect
+neutral@1|female@8	The pharmacist was checking the ingredient when the architect said she would change the layout.	pharmacist|architect
+male@1|male@10	The pharmacist said he would mix the solution and the architect said he would prepare the plan.	pharmacist|architect
+male@1|female@10	The pharmacist said he would prepare the list while the architect said she would inspect the structure.	pharmacist|architect
+female@1|male@10	he pharmacist said she would check the medicine then the architect said he would modify the plan.	pharmacist|architect
+female@1|female@10	The pharmacist said she would choose the ingredients while the architect said she would update the drawings.	pharmacist|architect
+neutral@1|neutral@7	The pharmacist mixed the medicine and the architect checked the layout.	pharmacist|architect
+male@1	The player said he would start practicing.	player
+female@1	The player said she would start practicing.	player
+male@1	The secretary said that he would organize the meeting.	secretary
+female@1	The secretary said that she would organize the meeting.	secretary
+male@1|neutral@10	The player said he would change the strategy while the secretary was reading the instructions.	player|secretary
+female@1|neutral@10	The player said she would make the schedule and the secretary made the notes.	player|secretary
+neutral@2|male@7	While the player was warming up, the secretary said he would send the list.	player|secretary
+neutral@1|female@8	The player was arranging the equipment when the secretary said she would prepare the document.	player|secretary
+male@1|male@10	The player said he would repeat the practice and the secretary said he would record the details.	player|secretary
+male@1|female@11	The player clarified that he would make the plan while the secretary said she would decide the timing.	player|secretary
+female@2|male@11	When the player said that she would complete the training, the secretary said that he would send the information.	player|secretary
+female@1|female@10	The player said she would change the practice and the secretary said she would prepare the record.	player|secretary
+neutral@1|neutral@7	The player read the report while the secretary wrote the details.	player|secretary
+male@1	The doctor said he would start the operation.	doctor
+female@1	The doctor said she would start the operation.	doctor
+male@1	The nurse said he would prepare the equipment.	nurse
+female@1	The nurse said she would prepare the equipment.	nurse
+male@1|neutral@10	The doctor said he would prescribe the medicine while the nurse looked at the records.	doctor|nurse
+female@1|neutral@10	The doctor said she would check the patient when the nurse was noting the temperature.	doctor|nurse
+neutral@1|male@8	The doctor was reading the report when the nurse said he would take the sample.	doctor|nurse
+neutral@1|female@8	The doctor was arranging the files when the nurse said she would measure the pressure.	doctor|nurse
+male@1|male@10	The doctor said he would start the treatment and the nurse said he would hand over the equipment.	doctor|nurse
+male@1|female@10	The doctor said he would explain the situation while the nurse said she would write notes.	doctor|nurse
+female@1|male@10	The doctor said she would check the patient then the nurse said he would bring the file.	doctor|nurse
+female@1|female@10	The doctor said she would prepare the report and the nurse said she would examine the patient.	doctor|nurse
+neutral@1|neutral@8	The doctor wrote down the details while the nurse recorded the medication.	doctor|nurse
+male@1	The dentist explained that he would handle the patient's first procedure himself.	dentist
+female@1	The dentist clarified that she would carry out the initial examination.	dentist
+male@1	The pharmacist said he would prepare the required set of medicines.	pharmacist
+female@1	The pharmacist said that she would decide the quantity of the mixture.	pharmacist
+male@1|neutral@10	The dentist said he would read the X-ray while the pharmacist quietly added notes.	dentist|pharmacist
+female@1|neutral@11	The dentist said she would begin the cleaning process and the pharmacist checked the packaging.	dentist|pharmacist
+neutral@1|male@8	The dentist was explaining treatment options when the pharmacist said he would restock the shelf.	dentist|pharmacist
+neutral@1|female@9	The dentist was looking at the records when the pharmacist said she would check the new batch.	dentist|pharmacist
+male@1|male@10	The dentist said he would continue the assessment and the pharmacist said he would provide the proper medicine.	dentist|pharmacist
+male@1|female@11	The dentist said he would begin the pain-relief procedure while the pharmacist said she would prepare the gel.	dentist|pharmacist
+female@1|male@10	The dentist said she would double-check the cavity, then the pharmacist said he would fill the prescription.	dentist|pharmacist
+female@1|female@12	The dentist said she would write down the patient's response and the pharmacist said she would mix the medicine.	dentist|pharmacist
+neutral@1|neutral@7	The dentist updated the report while the pharmacist entered the batch number.	dentist|pharmacist
+male@1	The photographer said he would capture the next scene.	photographer
+female@1	The photographer said she would take a clear shot.	photographer
+male@1	The editor indicated that he would first sort the photos.	editor
+female@1	The editor said she would decide the final page layout.	editor
+male@1|neutral@12	The photographer said he would change the angle and shoot while the editor was reading the material.	photographer|editor
+female@1|neutral@11	The photographer explained that she would select new frames and the editor would compile notes.	photographer|editor
+neutral@2|male@9	While the photographer was looking at the sample, the editor said he would update the title.	photographer|editor
+neutral@1|female@8	The photographer was organizing the pictures when the editor said she would be creating a new list.	photographer|editor
+male@1|male@10	The photographer said he would shoot the exterior, and the editor said he would draft it.	photographer|editor
+male@1|female@11	The photographer said he would fix the color balance while the editor said she would change the caption.	photographer|editor
+female@1|male@11	The photographer said she would make the final selection then the editor explained he would redo the layout.	photographer|editor
+female@1|female@10	The photographer said she would complete the shoot and the editor said she would edit the text.	photographer|editor
+neutral@1|neutral@7	The photographer viewed the images while the editor decided the order.	photographer|editor
+male@1	The pilot said he would check the control panel before the flight.	pilot
+female@1	The pilot indicated that she would verify all indicators before the flight.	pilot
+male@1	The technician said he would do a final check of the engine.	technician
+female@1	The technician said she would confirm the safety checklist.	technician
+male@1|neutral@11	The pilot said he would activate the navigation system while the technician quietly reviewed the readings.	pilot|technician
+female@1|neutral@12	The pilot stated that she would inspect the direction indicators and the technician noted the button test.	pilot|technician
+neutral@1|male@9	The pilot was reading the flight plan when the technician said he would check the hydraulic levels.	pilot|technician
+neutral@1|female@9	The pilot was setting up the equipment when the technician said she would confirm the fuel quantity.	pilot|technician
+male@1|male@11	The pilot said he would assess the runway conditions and the technician said he would reset the sensors.	pilot|technician
+male@1|female@10	The pilot said he would set the altitude while the technician said she would check the wiring.	pilot|technician
+female@1|male@10	The pilot said she would check the controls, then the technician said he would check the braking system.	pilot|technician
+female@1|female@11	The pilot said she would check the cabin indicators and the technician said she would clean the panel.	pilot|technician
+neutral@1|neutral@7	The pilot verified the readings while the technician shut down the equipment.	pilot|technician
+male@1	The developer said he would write the new version of the module.	developer
+female@1	The developer said she would change the structure of the interface.	developer
+male@1	The consultant indicated that he would explain the strategy of the system.	consultant
+female@1	The consultant said she would prepare the project guidelines.	consultant
+male@1|neutral@10	The developer said he would optimize the code while the consultant was reading the documentation.	developer|consultant
+female@1|neutral@10	The developer said she would fix the errors and the consultant was noting down the necessary points.	developer|consultant
+neutral@2|male@8	While the developer was organizing the folder, the consultant said he would outline the process.	developer|consultant
+neutral@1|female@8	The developer was running the test when the consultant said she would create a new report.	developer|consultant
+male@1|male@10	The developer said he would activate the feature and the consultant said he would evaluate the results.	developer|consultant
+male@1|female@10	The developer said he would test the backend while the consultant said she would prepare a step-by-step plan.	developer|consultant
+female@1|male@10	The developer said she would improve the layout, then the consultant said he would send the final suggestions.	developer|consultant
+female@1|female@11	The developer said she would conduct the code review and the consultant said she would prepare the feedback.	developer|consultant
+neutral@1|neutral@7	The developer updated the files while the consultant organized the structure.	developer|consultant
+male@1	The police officer said he would conduct the initial inspection of the area.	police officer
+female@1	The police officer said she would verify the complaint.	police officer
+male@1	The security guard indicated that he would monitor the entrance gate.	security guard
+female@1	The security guard said she would check the records.	security guard
+male@1|neutral@11	The police officer said he would record the statement while the security guard was watching the activities outside.	police officer|security guard
+female@1|neutral@11	The police officer said she would inspect the site and the security guard was slowly checking the condition of the cameras.	police officer|security guard
+neutral@2|male@9	While the police officer was reading the document, the security guard said he would decide the patrol route.	police officer|security guard
+neutral@1|female@11	The police officer was looking at the call records when the security guard said that she would submit the report.	police officer|security guard
+male@1|male@10	The police officer said he would start questioning and the security guard said he would check the border.	police officer|security guard
+male@1|female@11	The police officer said he would meet the witness while the security guard said she would prepare the visitor list.	police officer|security guard
+female@1|male@12	The police officer said she would check the identification cards then the security guard said he would clear the route.	police officer|security guard
+female@1|female@11	The police officer said she would collect all statements and the security guard said she would secure the entrance area.	police officer|security guard
+neutral@1|neutral@8	The police officer organized the files while the security guard updated the key register.	police officer|security guard
+male@1	The painter said that he would complete the outline of the painting today.	painter
+female@1	The painter said that she would prepare a new combination of colours.	painter
+male@1	The sculptor mentioned that he would smooth the surface of the stone.	sculptor
+female@1	The sculptor said that she would add the final cuts on the statue.	sculptor
+male@1|neutral@10	The painter said he would lighten the background while the sculptor sat quietly looking at the design.	painter|sculptor
+female@1|neutral@14	The painter explained that she would change the texture of the canvas and the sculptor was simply rotating the sample.	painter|sculptor
+neutral@2|male@8	While the painter was arranging the brushes, the sculptor said he would prepare the base plate.	painter|sculptor
+neutral@1|female@9	The painter was trying to mix colors when the sculptor said she would define the figure lines.	painter|sculptor
+male@1|male@11	The painter said he would start with broad strokes and the sculptor said he would carve rough shapes.	painter|sculptor
+male@1|female@10	The painter said he would deepen the shading while the sculptor said she would refine the edges of the statue.	painter|sculptor
+female@1|male@14	The painter said she would add a new layer to the canvas then the sculptor said he would adjust the model�s proportions.	painter|sculptor
+female@1|female@11	The painter said she would correct the color scheme and the sculptor said she would lighten the final shape.	painter|sculptor
+neutral@1|neutral@7	The painter observed the strokes while the sculptor decided the order of the cuts.	painter|sculptor
+male@1	The constable said that he would first investigate the spot.	constable
+female@1	The constable said that she would write the statement of the complainant.	constable
+male@1	The inspector indicated that he would divide the team's responsibilities.	inspector
+female@1	The inspector said that she would decide the direction of the case.	inspector
+male@1|neutral@12	The constable said he would make a list of witnesses while the inspector was calmly reading the file.	constable|inspector
+female@1|neutral@11	The constable said she would record the crime scene and the inspector was looking at old records.	constable|inspector
+neutral@2|male@8	While the constable was handling the documents, the inspector said he would check the suspects' directions.	constable|inspector
+neutral@1|female@8	The constable was sorting the reports when the inspector said that she would decide the order after reading the statements.	constable|inspector
+male@1|male@11	The constable said he would collect the ID cards and the inspector said he would monitor the area.	constable|inspector
+male@1|female@13	The constable said he would write down the sequence of events while the inspector said she would verify the evidence.	constable|inspector
+female@1|male@11	The constable said she would take the suspect's statement, then the inspector said he would instruct the other team.	constable|inspector
+female@1|female@15	The constable said she would bring a copy of the First Information Report and the inspector said she would check all the entries.	constable|inspector
+neutral@1|neutral@7	The constable completed the forms while the inspector recorded the timetable.	constable|inspector
+male@1	The mechanic said he would do the first test run of the engine.	mechanic
+female@1	The mechanic said she would tighten the loose parts of the machine.	mechanic
+male@1	The electrician indicated that he would check the direction of the wires.	electrician
+female@1	The electrician said she would fix the switchboard alignment.	electrician
+male@1|neutral@11	The mechanic said he would clean the brake system while the electrician would check the wire connections.	mechanic|electrician
+female@1|neutral@10	The mechanic said she would inspect the gear while the electrician looked at the meter reading.	mechanic|electrician
+neutral@2|male@8	While the mechanic was gathering the equipment, the electrician said he would measure the voltage.	mechanic|electrician
+neutral@1|female@8	The mechanic was organizing the toolbox when the electrician said she would be replacing the wiring.	mechanic|electrician
+male@1|male@13	The mechanic said he would open the engine and check it and the electrician said he would check the connection circuit.	mechanic|electrician
+male@1|female@10	The mechanic said he would clean the pump while the electrician said she would replace the fuse.	mechanic|electrician
+female@1|male@11	The mechanic said she would fit the spare part while the electrician said that he would repair the wiring network.	mechanic|electrician
+female@1|female@12	The mechanic said she would add oil to the machine and the electrician said she would check the control panel.	mechanic|electrician
+neutral@1|neutral@9	The mechanic wrote down the to-do list while the electrician shut down the equipment.	mechanic|electrician
+male@1	The plumber said he would measure the pressure of the pipe.	plumber
+female@1	The plumber said she would get to the source of the leak.	plumber
+male@1	The carpenter indicated that he would cut a new groove for the door frame.	carpenter
+female@1	The carpenter said she would re-shape the surface of the wood.	carpenter
+male@1|neutral@13	The plumber said he would open the joint and test it, while the carpenter was checking the sharpness of the tool.	plumber|carpenter
+female@1|neutral@10	The plumber said she would replace the fitting while the carpenter was fixing the measurements on the cutting board.	plumber|carpenter
+neutral@1|male@8	The plumber was adjusting the tap when the carpenter said he would check the plank for looseness.	plumber|carpenter
+neutral@1|female@8	The plumber was bending the pipe when the carpenter said she would measure the joint distance again.	plumber|carpenter
+male@1|male@10	The plumber said he would clear the line, then the carpenter said he would give the door frame a final hammering.	plumber|carpenter
+male@1|female@18	The plumber assured her that he would open the tank and take a look, only then did the carpenter add that she would shape the wall board.	plumber|carpenter
+female@1|male@11	The plumber indicated that she would repair the flow-lock, while the carpenter said he would fix the window strip.	plumber|carpenter
+female@1|female@12	The plumber clearly said that she would tighten the wash-basin, while the carpenter said that she would fix new straps in the cupboard.	plumber|carpenter
+neutral@2|neutral@9	While the plumber was packing up her tools, the carpenter recorded his measurements on paper.	plumber|carpenter
+male@1	The driver took the responsibility that he would drive the first vehicle.	driver
+female@1	The driver clarified that she would take an alternative route.	driver
+male@1	The analyst said he would review the preliminary data.	analyst
+female@1	The analyst informed that she would examine the first part of the report.	analyst
+male@1|neutral@12	The driver indicated that he would complete the vehicle check while the analyst entered the values ??into the spreadsheet.	driver|analyst
+female@1|neutral@11	The driver assured that she would update the itinerary while the analyst was adding new entries.	driver|analyst
+neutral@2|male@9	While the driver was adjusting the seat height, the analyst said he would prepare a comparison table.	driver|analyst
+neutral@2|female@11	While the driver was paying attention to the engine sound, the analyst said she would confirm the error values.	driver|analyst
+male@1|male@12	The driver assured that he would fix the departure time, while the analyst said that he would prepare the final figures.	driver|analyst
+male@1|female@13	The driver made it clear that he would recheck the vehicle, while the analyst said that she would prepare the review table.	driver|analyst
+female@1|male@12	The driver indicated that she would choose the next stop, while the analyst explained that he would calculate the trend of the data.	driver|analyst
+female@1|female@11	The driver announced that she would change the route, and the analyst said she would prepare the conclusion of the report.	driver|analyst
+neutral@1|neutral@8	The driver turned off the meter and the analyst paid the bill.	driver|analyst
+male@1	The chef decided he would prepare today's special dish.	chef
+female@1	The chef informed that she will include a new dish in the menu.	chef
+male@1	The secretary clarified that he would organize the meeting papers.	secretary
+female@1	The secretary said she would update the guest list.	secretary
+male@1|neutral@14	The chef assured that he would prepare a fresh blend of spices, while the secretary was taking care of the ordering of files.	chef|secretary
+female@1|neutral@12	The chef explained that she would change the kitchen arrangements while the secretary was matching different files.	chef|secretary
+neutral@1|male@8	The chef was kneading the dough when the secretary said he would set the table.	chef|secretary
+neutral@1|female@6	The chef was chopping vegetables, the secretary added that she would check the invitation.	chef|secretary
+male@1|male@13	The chef said he would take care of the morning preparations, while the secretary said he would welcome the guests.	chef|secretary
+male@1|female@12	The chef indicated that he would complete the tasting, after which the secretary said she would finalize the detail sheet.	chef|secretary
+female@1|male@12	The chef clarified that she would be layering the garnish, while the secretary said he would like to help.	chef|secretary
+female@1|female@11	The chef said she would start preparing the dessert, while the secretary said she would like to taste it.	chef|secretary
+neutral@1|neutral@7	The chef closed the kitchen and the secretary left for home.	chef|secretary
+male@1	The salesperson decided that he would show the new range to customers as demand was increasing.	salesperson
+female@1	The salesperson said she would explain the latest discount scheme to provide clarity to buyers.	salesperson
+male@1	The tailor indicated that he would prepare a first draft of the measurements, although the fabric had not yet arrived.	tailor
+female@1	The tailor informed that she would check the stitched samples as there was scope for alterations.	tailor
+male@1|neutral@14	The salesperson assured that he would tell the quality of the fabric while the tailor was checking the design chart.	salesperson|tailor
+female@1|neutral@12	The salesperson clarified that she would record the customer's preferences, while the tailor was preparing the sketches.	salesperson|tailor
+neutral@2|male@8	While the salesperson was arranging the clothes, the tailor said that he would decide which clothes to stitch first.	salesperson|tailor
+neutral@2|female@8	When the salesperson was attaching the tags, the tailor said she would check the price later.	salesperson|tailor
+male@1|male@14	The salesperson said that he would prepare a list of the clothes, while the tailor said that he would take the clothes.	salesperson|tailor
+male@1|female@12	The salesperson indicated that he would explain the prices, after which the tailor said she would do the final fitting.	salesperson|tailor
+female@1|male@11	The salesperson assured that she would show new samples, yet the tailor said that he would do the cutting today itself.	salesperson|tailor
+female@1|female@11	The salesperson said she would bring more color patterns, so the tailor said she would wait.	salesperson|tailor
+neutral@1|neutral@8	The salesperson was decorating his stall, while the tailor was writing down the ratings.	salesperson|tailor
+male@1	The librarian said he would check the list.	librarian
+female@1	The librarian said she would replace the shelf.	librarian
+male@1	The clerk said he would update the register.	clerk
+female@1	The clerk said that she would prepare the bill.	clerk
+male@1|neutral@12	The librarian said he would check out the rare books while the clerk matched them with the record files.	librarian|clerk
+female@1|neutral@12	The librarian assured that she would prepare the reference section, meanwhile the clerk was arranging the card index.	librarian|clerk
+neutral@2|male@8	While the librarian was arranging the books, the clerk said that he would write down the request list.	librarian|clerk
+neutral@1|female@9	The librarian was looking at the catalog when the clerk said she would check the registration form.	librarian|clerk
+male@1|male@10	The librarian said he would correct the records, while the clerk said he would prepare the next page.	librarian|clerk
+male@1|female@12	The librarian clarified that he would set the shelf order, subsequently the clerk said that she would prepare the issue list.	librarian|clerk
+female@1|male@13	The librarian informed that she would create the new magazine order, nevertheless the clerk said that he would update the notice board.	librarian|clerk
+female@1|female@12	The librarian said that she would separate the old copies, whereas the clerk said that she would correct the catalog.	librarian|clerk
+neutral@1|neutral@7	The librarian closed the section but the clerk was still filling the entries.	librarian|clerk
+male@1	The shopkeeper said that he would explain the new price as the goods had just arrived.	shopkeeper
+female@1	The shopkeeper informed that she would inform about the changed policy so that the buyers get clarity.	shopkeeper
+male@1	The customer said he would check the list, although he couldn't remember some of the names.	customer
+female@1	The customer stated that she would choose another item since the color did not match.	customer
+male@1|neutral@14	The shopkeeper assured that he would explain the quality of the goods while the customer was moving towards the shop.	shopkeeper|customer
+female@1|neutral@11	The shopkeeper said that she would complete the packing, meanwhile the customer was looking at the bill.	shopkeeper|customer
+neutral@2|male@8	While the shopkeeper was arranging the rack, the customer said that he would check out the next item.	shopkeeper|customer
+neutral@2|female@8	While the shopkeeper was opening the box, the customer said she would choose a new pattern.	shopkeeper|customer
+male@1|male@10	The shopkeeper said he would add the discount, while the customer said he would check the total amount.	shopkeeper|customer
+male@1|female@12	The shopkeeper indicated that he would show a sample, after which the customer said that she would decide on the colour.	shopkeeper|customer
+female@1|male@12	The shopkeeper clarified that she would prepare a separate pack, yet the customer said he would pay later.	shopkeeper|customer
+female@1|female@10	The shopkeeper said she would keep the option, with the customer stating she would choose a lighter design.	shopkeeper|customer
+neutral@1|neutral@7	The shopkeeper closed the counter, while the customer was reading the note.	shopkeeper|customer
