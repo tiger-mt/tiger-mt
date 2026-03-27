@@ -1,0 +1,351 @@
+The President said that he would address the nation.
+The President said that she would address the nation.
+The Prime Minister said that he will place the scheme in the Parliament.
+The Prime Minister said that he will keep the plan in the Parliament.
+The President said that he would address the nation, while the Prime Minister was watching the preparation of the cabinet.
+The President said that she would send a message in the evening, during which the Prime Minister was reviewing the security arrangements.
+The President said that the decision will be made by consensus, and then the Prime Minister said that he will table the proposal in Parliament.
+The President said that there is a need for change in the policy, and the Prime Minister said that he will announce it.
+The President said he would sign the policy, while the Prime Minister said he would place the plan in the legislature.
+The President said that he will issue an order so that the Prime Minister can explain the situation to the people.
+The President said that she will convey the message, while the Prime Minister said that he will implement the plan.
+The President said that he will present the new policy, and the Prime Minister called for a review meeting.
+The President added that the decision will be collective, and the Prime Minister expressed agreement.
+The judge clarified that he will write the decision.
+The judge clarified that she will write the decision.
+The lawyer said that he will file an appeal.
+The lawyer said that she will file an appeal.
+The judge said that he would announce his decision tomorrow, when the lawyer was gathering the witness testimony documents.
+The judge said that she would issue the order, during which the lawyer was arranging the documents in order.
+The judge said that the hearing will end, while the lawyer said that he will present the argument.
+The judge said that the case will be completed today, and on this the lawyer said that she will present the evidence.
+The judge said that he would write the decision himself, while the lawyer said that he would present the final argument.
+The judge said that he would deliver the verdict so that the lawyer can fully present her argument.
+The judge said that she would issue the order, while the lawyer said that he would file his appeal.
+The judge said that she would announce the decision tomorrow, and the lawyer said that she would prepare the argument list.
+The judge said that the decision would be impartial, and the lawyer nodded in agreement.
+The farmer said that he would harvest the wheat.
+The farmer said that she would harvest the wheat.
+The businessman said that he would pay.
+The businessperson said that she would pay.
+The farmer said that he would cut the wheat, at the same time the trader was watching the price in the market.
+The farmer said that she would plant the crop, while the merchant was keeping the warehouse door unlocked.
+The farmer said that the deal would be done, then the merchant said that he would pay.
+The farmer said that the harvest is ready, and the merchant said that she would prepare the account.
+The farmer said that he would sell the rice, and the merchant said that he would fix the price.
+The farmer said that he would bring grains so that the merchant can store them in the godown.
+The farmer said that she would check the field, while the merchant said that he would pay.
+The farmer said that she would write the contract, and the merchant said that she would close the accounts.
+The farmer smiled and said that the crop was good, upon which the merchant expressed satisfaction.
+The worker said that he would paint the wall.
+The worker said that the wall will be painted.
+The contractor said that he will inspect the site.
+The contractor said that she will inspect the site.
+The worker said he would lay the bricks while the contractor was watching the work progress.
+The worker said that he would build a wall, while the contractor was looking at the blueprint.
+The worker said that the work would be done, then the contractor said that he would pay.
+The worker said that the construction will be completed soon, and the contractor said that she will inspect it.
+The worker said that he would put the roof, and the contractor said that he would send the materials.
+The worker said that he would lay the floor so that the contractor can check the quality.
+The worker said that the wall would be painted, while the contractor said that he would be paid.
+The worker said that she would plaster, and then the contractor said that he would check the account.
+The worker said happily that the work is done, to which the contractor gave praise.
+The official said that he will conduct a security check.
+The official said that he will conduct a security check.
+The soldier said that he would deliver the message.
+The soldier said that she would deliver the message.
+The official said he would issue the order while preparing for the deployment of military forces.
+The official said that she would prepare the documents, while the military was inspecting the weapons.
+The official said the campaign would start, then the soldier said he would guard.
+The official said that the action will take place tomorrow, and the military said that she will deliver the message.
+The official said he would give the directions, while the military personnel said he would take charge of the front.
+The official said that he would reach the front so that the military can understand their strategy.
+The official said she would conduct the inspection, while the soldier said he would take charge of the front.
+The official said that he will conduct the security check, and then the soldier said that he will send the report.
+The official said briefly that the campaign was successful, during which the soldier started to lower the flag.
+The envoy said that he will send the documents.
+The envoy said that she will send the documents.
+The minister said that he will announce it.
+The minister said that he will announce it.
+The envoy said that he would send the documents while the foreign policy minister was reviewing them.
+The envoy said that she would prepare the report, while observing the proceedings of the minister's meeting.
+The envoy said that the agreement has been reached, then the minister said that he would announce it.
+The envoy said that the conversation was successful, and the minister said that she would speak at the press conference.
+The envoy said that he would send the proposal, and the minister said that he would decide.
+The envoy said that he will send the report so that the minister can place it before the public.
+The envoy said that she will send the letter, while the minister said that he will announce it.
+The envoy said that she would send a note, and then the minister said that she would share the details.
+The envoy handed over the note, after which the minister concluded the meeting.
+The manager said that he would prepare the documents.
+The manager said that she will prepare the documents.
+The assistant said that he would arrange the meeting.
+The assistant said that he would arrange the meeting.
+The manager said he would organize the documents, while the assistant was getting ready to start the meeting.
+The manager said that she would turn on the computer, while preparing the outline of the assistant's report.
+The manager said that the work will be completed, then the assistant said that he would submit the files.
+The manager said that the work would be completed, then the assistant said that she would submit the files.
+The manager said he would review it, while the assistant said he would prepare the documents.
+The manager said that he would present the plan to the assistant so that he can take notes.
+The manager said that she will prepare the proposal, while the assistant said that he will bring the documents.
+The manager said that she would prepare the documents, and then the assistant said that she would write the contract.
+The manager sent an email, and at the same time, the assistant closed the file lock.
+The businessman said that he would enter into an agreement.
+The businessman said that she would enter into an agreement.
+The writer said that he will check the accounts.
+The writer said that she will check the accounts.
+The businessman said that he would increase investment, while the accountant was checking the accounts.
+The businessperson said that she would sign the agreement, while the accountant was looking at the figures.
+The businessman said that the plan is ready, so the accountant said that he would prepare the account.
+The businessman said that the deal is done, and on this, the accountant said that she will record the details.
+The businessman said that he would pay, while the accountant said that he would update the account.
+The businessman said that he would send the order so that the accountant can add the figures and complete her report.
+The businessman said that he would enter into the contract, while the accountant said that he would check the accounts.
+The businessman said that he would make the purchase, and then the accountant said that she would handle the accounts.
+The businessman closed the account, and then the accountant kept the receipts in the safe.
+The engineer said that he will make the model.
+The engineer said that she will make the model.
+The designer said that he will create the picture.
+The designer said that she will create the picture.
+The engineer said he would check the mechanical plan, while the designer was looking at the sketch.
+The engineer said that she would make the model, while the designer was drawing the sketch.
+The engineer said that the work will be completed, then the designer said that he would change the color scheme.
+The engineer said that the project is on time, and the designer said that she will improve the map.
+The engineer said he would inspect the machine, while the designer said he would draw the picture.
+When the engineer was understanding his model, the designer was busy looking at her own design.
+The engineer said that she would write the report, while the designer said that he would change the outline.
+The engineer said that he will check the plan, and then the designer said that he will change the color combination.
+The engineer folded the plan, while the designer was saving the final version on the computer screen.
+The scientist said that he will start the experiment.
+The scientist said that she will start the experiment.
+The journalist mentioned that he will gather the facts.
+The journalist mentioned that he will gather the facts.
+The scientist said that he would explain the model while the journalist was quietly taking notes.
+The scientist said she would review the data, and the journalist wrote only the headline.
+The scientist was observing, that's why the journalist said he would write the details.
+When the scientists were organizing their conclusions, the journalist said she would prepare a report.
+The scientist said that he would repeat the test and the journalist said that he would publish the story.
+The scientist said that he would test the device while the journalist said that she would write the analysis.
+The scientist said that she would prepare the report, and the journalist said that he would conduct the interview.
+The scientist said that she will check the data and the journalist said that she will write the conclusion.
+The scientist recorded the observations while the journalist collected the details.
+The pharmacist said that he would prepare the mixture.
+The pharmacist said that she would prepare the mixture.
+The architect indicated that he would finalize the plan.
+The architect indicated that she would finalize the plan.
+The pharmacist said that he will prepare the medicine until the architect examines the model.
+The pharmacist said that when the architect is reading the details, she will prepare the notes.
+The pharmacist was measuring the sample then the architect said that he would change the design.
+The pharmacist was checking the ingredients, at the same time the architect said that the soil would change.
+The pharmacist said that he would add the solution, and the architect said that he would make the plan.
+The pharmacist said that he would prepare the list while the architect said that he would inspect the structure.
+The pharmacist said that he would check the medicine, then the architect said that he would make amendments to the plan.
+The pharmacist said she would choose the materials while the architect said she would update the sketch.
+The pharmacist dispensed the medicine and the architect checked the layout.
+The player said that he will start training.
+The player said that she will start training.
+The secretary said that he will organize the meeting.
+The secretary said that she would organize the meeting.
+The player said that he would change the strategy while the secretary was reading the instructions.
+The player said he would create a schedule and the secretary prepared a note.
+The player was warming up when the secretary said he would send the list.
+The player was organizing the equipment, and then the secretary said that she would prepare the documents.
+The player said that he will repeat the practice and the secretary said that he will record the details.
+The player said he would make a plan while the secretary said she would set the time.
+The player said that she will complete the training, and the secretary said that he will send the information.
+The player said that she would change her training and the secretary said that she would prepare the record.
+The player read the report while the secretary wrote the details.
+The doctor said that he would start the operation.
+The doctor said that she would start the operation.
+The nurse said that she would make the device.
+The nurse said that she would make the device.
+The doctor said he would write the prescription while the nurse was reviewing the records.
+The doctor said that when the nurse is taking the patient's temperature, she will examine them.
+The doctor was reading the report when the nurse told him that she would take the sample.
+The doctor was organizing the files, and then the nurse said that she would measure the pressure.
+The doctor said that he would start the treatment and the nurse said that she would grab the device.
+The doctor said that he would explain the situation while the nurse said that she would take notes.
+The doctor said that she would examine the patient, so the nurse said that he would come with the file.
+The doctor said that she would prepare the report and the nurse said that she would examine the patient.
+The doctor wrote the details while the nurse recorded the medication.
+The dentist said that he would handle the patient's first procedure himself.
+The dentist explained that she would proceed with the initial examination.
+The pharmacist said that he would prepare the necessary set of medicines.
+The pharmacist said that she would determine the quantity of the mixture.
+The dentist said he would take the X-ray while the pharmacist was quietly adding notes.
+The dentist said they would start the cleaning process and the pharmacist checked the packaging.
+The dentist was explaining treatment options when the pharmacist said he would refill the medication on the shelf.
+The dentist was looking at the records, and then the pharmacist said that she would check the new batch.
+The dentist said that he would keep the evaluation and the pharmacist said that he would provide the appropriate medicine.
+The dentist said that he would start the process of reducing pain while the pharmacist said that she would prepare the jail.
+The dentist said she would check again for cavities, and the pharmacist said he would fill the prescription.
+The doctor said that he would write down the patient's reaction, and the pharmacist said that he would mix the medicine.
+The dentist updated the report while the pharmacist entered the batch number.
+The photographer said that he will take the next shot.
+The photographer said he would take a clear photo.
+The editor indicated that he would edit the first pictures.
+The editor said that she will finalize the page outline.
+The photographer said he would shoot while changing the angle, while the editor was reading the material.
+The photographer said she would select a new frame and the editor would collect notes.
+The photographer was looking at the sample then the editor said that she would update the headline.
+The photographer was organizing the pictures, and then the editor said that she would prepare a new list.
+The photographer said that he would shoot the exterior scene, and the editor said that he would create the format.
+The photographer said that he will correct the color balance while the editor said that she will change the caption.
+The photographer said she would make the final selection, and the editor said he would redo the layout.
+The photographer said that she would finish the shoot, and the editor said that she would edit the text.
+The photographer saw the pictures while the editor arranged them.
+The pilot said that he would check the control panel before the flight.
+The pilot signaled that she would check all the indicators before the flight.
+The technician said that he will do the final check of the engine.
+The technician said that he will verify the security list.
+The pilot said he would activate the navigation system while the technician was calmly looking at the data.
+The pilot clarified that she would conduct the direction indicator test and the technician recorded the button test.
+The pilot was reading the flight plan when the technician said he would check the hydraulic level.
+The pilot was setting up the equipment, when the technician said that she would confirm the fuel quantity.
+The pilot said he would assess the runway condition and the technician said he would reset the sensor.
+The pilot said he would set the altitude while the technician said she would check the wiring.
+The pilot said that she would check the controls, and the technician said that he would look at the braking system.
+The pilot said she would check the cabin indicators and the technician said he would clean the panel.
+The pilot added the data while the technician turned off the equipment.
+The developer said that he would write a new version of the module.
+The developer said that he will change the structure of the interface.
+The consultant indicated that he would explain the system's strategy.
+The consultant said that he will prepare the directions for the project.
+The developer said he would adjust the code while the consultant was reading the documents.
+The developer said that he would fix the errors and the consultant was noting the necessary points.
+The developer folder was being organized when the consultant said that he would prepare the process outline.
+The developer was testing, and then the consultant said that she would prepare the new report.
+The developer said that he will activate the feature and the consultant said that he will evaluate the results.
+The developer said that he will check the backend while the consultant said that he will prepare a step-by-step plan.
+The developer said that he will improve the layout, and then the consultant said that he will send the final suggestion.
+The developer said that she will review the code and the consultant said that he will prepare a response.
+The developer updated the files while the consultant organized the structure.
+The police official said that he would start the initial investigation into the area.
+The police official said that he will confirm the complaint.
+The security guard indicated that he would be monitoring the entrance.
+The security guard said that the record will be checked.
+The police officer said he would record the statement while the security personnel were watching the external activities.
+The police officer said that she would inspect the site and the security personnel was slowly looking at the cameras.
+The police officer was reading the documents when the security guard said he would take the patrol route.
+The police officer was looking at the call record, and then the security guard said that she would submit the report.
+The police officer said that he would start the inquiry and the security personnel said that he would conduct the border check.
+The police officer said that he would meet the witness, while the security personnel said that he would prepare the list of attendees.
+The police officer said that she would check the identification document, then the security guard said that he would clear the path.
+The police officer said that she would collect all statements and the security personnel said that they would keep the entrance secure.
+The police officer organized the files while the security guard updated the key register.
+The painter said that he will complete the outline of the painting today.
+The painter said that she would prepare a new mix of colors.
+The sculptor mentioned that he would smooth the stone surface.
+The sculptor said that he would make the final cut on the sculpture.
+The painter said that he would make the background lighter while the sculptor was calmly looking at the design.
+The painter said that he would change the canvas's structure and the sculptor was just turning the model.
+The painter was arranging the brushes when the sculptor said that he would prepare the base plate.
+The painter was looking at the colors mixed together, and then the sculptor said that he would determine the lines of the figure.
+The painter said that he would start with a large stroke, and the sculptor said that he would carve a thick figure.
+The painter said that he would deepen the shadow while the sculptor said that he would shape the figure's edge.
+The painter said that she would apply a new layer on the canvas, then the sculptor said that he would change the model's scale.
+The painter said that she would correct the color combination, and the sculptor said that he would make the final shape lighter.
+The painter saw the strokes while the sculptor determined the sequence of cuts.
+The official said that he would conduct the first investigation at the scene.
+The clerk said that she would write down the complainant's statement.
+The supervisor signaled that he would distribute the team's responsibilities.
+The inspector said that she would determine the direction of the case.
+The clerk said that he would prepare a list of witnesses while the inspector was reading the file calmly.
+The clerk said that she would record the scene markers and the inspector was looking at old records.
+The clerk was handling the documents when the inspector said he would check the direction of the suspicious ones.
+The clerk was sorting the report, and then the supervisor said that she would arrange the order after reading the statement.
+The clerk said that he would collect the identification documents and the inspector said that he would monitor the area.
+The clerk said that he would write the incident report while the supervisor said that he would verify the evidence.
+The clerk said that she would take the statement of the suspect, and then the supervisor said that he would give instructions to the other team.
+The clerk said that he would bring the first information report and the supervisor said that she would check all the entries.
+The clerk filled out the form while the supervisor recorded the schedule.
+The mechanic said that he would conduct the first test of the engine.
+The mechanic said that she would tighten the loose part of the machine.
+The electrician indicated that he would check the direction of the wires.
+The electrician said that she would fix the switchboard wiring.
+The mechanic said he would clean the braking system while the electrician would check the wire connections.
+The mechanic said that when the electrician sees the meter reading, she will check the gear.
+The mechanic was gathering tools when the electrician said he would measure the voltage.
+The mechanic was organizing the tool box, and then the electrician said that he would replace the insulation on the wires.
+The mechanic said he would check the engine by opening it, and the electrician said he would check the connection circuit.
+The mechanic said he would clean the pump while the electrician said she would replace the fuse.
+The mechanic said that she would install the spare part, and the electrician said that he would fix the wiring.
+The mechanic said she would add oil to the machine, and the electrician said she would check the control panel.
+The mechanic wrote down the list of tasks while the electrician turned off the equipment.
+The plumber said that he would measure the pressure of the pipe.
+The plumber said that she would reach the source of the leak.
+He indicated that he would cut a new step.
+He said he would reshape the wooden surface.
+The plumber said that he would check the joint by opening it, at the same time checking the edge of the auger.
+The plumber said that he would replace the fitting, while he was adjusting the measurement on the cutting board.
+The plumb line was being adjusted, and that is when Baddi said he would check the sag of the table.
+The plumber was bending the pipe, and then the carpenter said that he would measure the joint again.
+The plumber said he would clean the line, and then Bhardwaj said he would strike the final blow on the chisel.
+The plumber said he would open the tank to check, and then the carpenter said she would shape the wall board.
+The plumber indicated that she would fix the flow lock, at the same time, the carpenter said that he would put up the window frame.
+The plumber said he would clean the washbasin, while the carpenter said he would install new shelves.
+The plumb line was being adjusted, so Baddi took her measurements and recorded them on paper.
+The driver took responsibility to drive the first train.
+It was clearly stated by the driver that she would take the alternative route.
+The analyst said he will review the initial data.
+The analyst provided information that they will check the first part of the report.
+The driver signaled that he would perform the vehicle inspection, while the analyst was entering values into the spreadsheet.
+The driver assured that she would update the journey schedule, while the analyst was adding new entries.
+The driver's seat height was being adjusted, during which time the analyst said he would prepare a comparative table.
+The driver was paying attention to the engine's sound, and at the same time, the analyzer said that it would verify the errors.
+The driver assured that he would set the departure time, while the analyst said that he would prepare the final figures.
+The driver clarified that he would check the car again, while the analyst said that she would prepare the evaluation table.
+The driver signaled that she would choose the next stop, at the same time the analyst said that he would analyze the trend of the data.
+The driver announced that she would change the route, and the analyst said that she would prepare the report's conclusion.
+The driver closed the meter and the analyst paid the bill.
+Sheikh decided to prepare the special dish today.
+The information was given by Shaf that she will include new dishes in the menu.
+The secretary clarified that he will organize the meeting documents.
+It was stated by the secretary that she will update the guest list.
+Sheikh assured that he would prepare a fresh mixture of spices, while the secretary was paying attention to the order of the files.
+He said that he would change the kitchen arrangement, while the secretary was merging separate files.
+The sheriff was tying the knot when the secretary said he would set the table.
+Sheikh was cutting vegetables, and the secretary added that she would check the invitation letter.
+Sheikh said he would take care of the morning preparations, while the secretary said he would welcome the guests.
+Sheikh indicated that he would complete the taste test, and then the secretary said that she would finalize the details letter.
+She said she would add the garnish layer, while the secretary said he would help.
+She said she would start preparing the sweets, while the secretary said he would test it.
+Sheikh closed the kitchen and the secretary left for home.
+The seller decided to show the new range to customers because the demand was increasing.
+The seller said that he will explain the new discount plan, so that buyers can get clarity.
+The tailor indicated that he would prepare the first draft of the measurements, although the fabric had not arrived yet.
+Information was received from the inspector that she will examine the sealed samples, as there was a possibility of change.
+The seller expressed confidence that he would tell about the quality of the clothes, while the tailor was checking the design chart.
+The seller clarified that he would take customers' preferences into account, while the tailor was preparing a sketch.
+The seller was arranging the clothes, while the weaver said he would decide which clothes to sew first.
+When the seller was tagging, the tailor said that he would check the price later.
+The seller said that he would prepare the list of goods, while the tailor said that he would take the clothes.
+The seller indicated that he would explain the prices, and then the tailor said that she would do the final fitting.
+The seller assured that she would show the new samples, but the weaver said that he would cut them today.
+The seller said that she would bring more colors and patterns, so the weaver said that she would wait.
+The seller was decorating his stall while the tailor was writing the rating.
+The librarian said that he will check the list.
+The librarian said that she will change the shelf.
+The clerk said that he would update the register.
+The clerk said that she would prepare the bill.
+The librarian said that he would check the rare books, while the clerk was matching them with the record files.
+The librarian assured that she would prepare the reference section, while the clerk was organizing the card-index.
+The librarian was keeping the books, and the clerk said that he would write down the request list.
+The librarian was looking at the catalog when the clerk said she would check the registration form.
+The librarian said that she would correct the records, while the clerk said that he would prepare the next page.
+The librarian said that she would determine the shelf order, and then the clerk said that she would prepare the release list.
+The librarian said that she would create a new order for the newspapers, but the clerk said that he would update the notice board.
+The librarian said she would separate the old copies, while the clerk said she would correct the list.
+The librarian closed the section, but the clerk was still filling in entries.
+The shopkeeper said that he would explain the new price, because the goods had just arrived.
+The information was received from the shopkeeper that she will announce the policy of change, so that the buyers get clarity.
+The customer said that he would check the list, although he did not remember some names.
+It was stated by the customer that she would choose another item because the color did not match.
+The merchant assured that he would explain the quality of the goods, while the customer was moving towards the store.
+The shopkeeper said that she would complete the packing, meanwhile the customer was looking at the bill.
+When the shopkeeper was arranging the rack, the customer said that he would look at the next item.
+When the shopkeeper was opening the box, the customer said she would choose a new pattern.
+The shopkeeper said that he would add a discount, while the customer said that he would check the total amount.
+The shopkeeper indicated that he would show the sample, and then the customer said that she would decide on the color.
+The shopkeeper clarified that she would prepare a separate package, but the customer said he would pay later.
+The shopkeeper said that she would offer an alternative, and the customer said that she would choose a light design.
+The shopkeeper closed the counter, while the customer was reading the note.
