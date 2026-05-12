@@ -1,8 +1,8 @@
-# TIGER-MT
+# BRIDGE-MT
 
-## Taxonomy-driven Interaction Benchmark for Gender Roles in Machine Translation
+##  Benchmarking Role Interactions and Dependencies in Gender Evaluation for MT
 
-TIGER-MT is a manually constructed and validated benchmark for evaluating gender bias in Hindi–English machine translation when two occupational roles co-occur within the same sentence.
+BRIDGE-MT is a manually constructed and validated benchmark for evaluating gender bias in Hindi–English machine translation when two occupational roles co-occur within the same sentence.
 
 The benchmark introduces a structured taxonomy of role–gender configurations and enables systematic analysis of cross-role gender interaction effects, i.e., whether the gender realization of one role influences the translation of another role within the same sentence.
 
@@ -29,7 +29,7 @@ The benchmark introduces a structured taxonomy of role–gender configurations a
 
 ## Taxonomy of Role–Gender Configurations
 
-To systematically evaluate gender behaviour under role co-occurrence, TIGER-MT defines thirteen structured role–gender configurations over two occupational entities, referred to as Role A and Role B.
+To systematically evaluate gender behaviour under role co-occurrence, BRIDGE-MT defines thirteen structured role–gender configurations over two occupational entities, referred to as Role A and Role B.
 
 The taxonomy is defined as follows:
 
@@ -51,9 +51,9 @@ This taxonomy enables controlled variation of gender assignments across one- and
 
 ---
 
-## What TIGER-MT Enables
+## What BRIDGE-MT Enables
 
-TIGER-MT supports structured evaluation of:
+BRIDGE-MT supports structured evaluation of:
 
 ### Role-Level Gender Accuracy
 
